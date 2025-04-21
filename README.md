@@ -64,3 +64,8 @@ neonclient-website/
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces
 - [HeroUI](https://www.heroui.com/) - Used for UI Libraries
+
+## Acknowledgement
+
+[ohhEmily ](https://github.com/ohemilyy/)
+
